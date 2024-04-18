@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andres OrdoNez</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h1 align="center">Hi 👋, I'm Andres Ordoñez</h1>
+<h3 align="center">desarrollador de software 🧑🏻‍💻.</h3>
 
 <br>
 
